@@ -21,4 +21,24 @@ footer {
 }body {
     background: url('img/bg-desktop.webp');
     font-family: Bai Jamjuree;
+}color: white;
+    bottom:0;
+    position:fixed;
+    width:100%;
+}body {
+    background: url('img/bg-desktop.webp');
+    font-family: Bai Jamjuree;
+}body {
+    background: url('img/bg-desktop.webp');
+    font-family: Bai Jamjuree;
+}color: white;
+    bottom:0;
+    position:fixed;
+    width:100%;
+}body {
+    background: url('img/bg-desktop.webp');
+    font-family: Bai Jamjuree;
+}body {
+    background: url('img/bg-desktop.webp');
+    font-family: Bai Jamjuree;
 }
